@@ -6,6 +6,7 @@ Guillaume DURAND
 Promo : Explorer  
 S2-J4 | 12/10/2017
 
+Formateur : Lucie  
 Type : HTML | CSS | GitHub
 
 ## Objectif
